@@ -1,0 +1,28 @@
+﻿  ZombieArena.cpp
+d:\programming\projects\zombiearena\zombiearena.cpp(25): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\programming\projects\zombiearena\zombiearena.cpp(26): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\programming\projects\zombiearena\zombiearena.cpp(28): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\programming\projects\zombiearena\zombiearena.cpp(405): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\programming\projects\zombiearena\zombiearena.cpp(411): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\programming\projects\zombiearena\zombiearena.cpp(730): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\programming\projects\zombiearena\zombiearena.cpp(799): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programming\projects\zombiearena\zombiearena.cpp(805): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\programming\projects\zombiearena\zombiearena.cpp(322): warning C4101: volumeMusic: неиспользованная локальная переменная
+d:\programming\projects\zombiearena\zombiearena.cpp(321): warning C4101: volumeSFX: неиспользованная локальная переменная
+  ZombieArena.vcxproj -> D:\Programming\PROJECTS\ZombieArena\Debug\ZombieArena.exe
